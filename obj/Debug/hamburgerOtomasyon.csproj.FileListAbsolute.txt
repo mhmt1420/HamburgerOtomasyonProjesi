@@ -1,0 +1,26 @@
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.exe.config
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.exe
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.pdb
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csprojAssemblyReference.cache
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form1.resources
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Properties.Resources.resources
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csproj.GenerateResource.cache
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.exe
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.pdb
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form2.resources
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form3.resources
+C:\Users\section2\source\repos\OOP-2\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Anaform.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.exe.config
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.exe
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\bin\Debug\hamburgerOtomasyon.pdb
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csprojAssemblyReference.cache
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Anaform.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form1.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form2.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Form3.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.Properties.Resources.resources
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csproj.GenerateResource.cache
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.exe
+C:\Users\Mahmut Çağlayan\Desktop\hamburgerOtomasyon\hamburgerOtomasyon\hamburgerOtomasyon\obj\Debug\hamburgerOtomasyon.pdb
